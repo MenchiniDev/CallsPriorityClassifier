@@ -1,0 +1,1 @@
+{"classifier__max_depth": 30, "classifier__max_features": "sqrt", "classifier__min_samples_leaf": 2, "classifier__min_samples_split": 20, "classifier__n_estimators": 100}

@@ -1,0 +1,14 @@
+numpy==1.23.5
+scipy==1.9.3
+pandas==1.5.2
+scikit-learn==1.2.0
+matplotlib==3.6.2
+seaborn==0.12.1
+jupyter==1.0.0
+notebook==6.5.2
+jupyterlab==3.5.0
+mlxtend==0.21.0
+joblib==1.2.0
+imbalanced-learn==0.9.1
+opencv-python==4.6.0.66
+plotly==5.11.0

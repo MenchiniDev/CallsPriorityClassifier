@@ -1,0 +1,46 @@
+support,itemsets
+0.12657832622943307,frozenset({'PoliceDistrict = 0'})
+0.14215534625784867,frozenset({'PoliceDistrict = 2'})
+0.10229902836976947,frozenset({'PoliceDistrict = 3'})
+0.10946021815848572,frozenset({'PoliceDistrict = 4'})
+0.1153868188276273,frozenset({'PoliceDistrict = 5'})
+0.12615438379394106,frozenset({'PoliceDistrict = 6'})
+0.10995863696778037,frozenset({'PoliceDistrict = 7'})
+0.140390829093909,frozenset({'dayofweek = 0'})
+0.14111840597644254,frozenset({'dayofweek = 1'})
+0.1423845043310876,frozenset({'dayofweek = 2'})
+0.14183166047939869,frozenset({'dayofweek = 3'})
+0.14534637242770063,frozenset({'dayofweek = 4'})
+0.14661819973417664,frozenset({'dayofweek = 5'})
+0.14231002795728492,frozenset({'dayofweek = 6'})
+0.12721996883450204,frozenset({'description = 1050'})
+0.1035880425317384,frozenset({'description = 864'})
+0.12127045235803657,frozenset({'district = 0'})
+0.10260552729272653,frozenset({'district = 10'})
+0.09893040469315734,frozenset({'district = 4'})
+0.1373974517622256,frozenset({'district = 5'})
+0.1072173335166598,frozenset({'district = 6'})
+0.11987831706311014,frozenset({'district = 7'})
+0.1074493560658142,frozenset({'district = 8'})
+0.10553588615426922,frozenset({'month = 1'})
+0.09386601127457721,frozenset({'month = 6'})
+0.09616045648288189,frozenset({'month = 7'})
+0.3333333333333333,frozenset({'priority = 0.0'})
+0.3333333333333333,frozenset({'priority = 1.0'})
+0.3333333333333333,frozenset({'priority = 2.0'})
+0.47987705669370734,frozenset({'year = 2021'})
+0.48168167652046384,frozenset({'year = 2022'})
+0.11811379989917045,"frozenset({'PoliceDistrict = 0', 'district = 0'})"
+0.13363066593336084,"frozenset({'PoliceDistrict = 2', 'district = 5'})"
+0.09531543608781337,"frozenset({'PoliceDistrict = 3', 'district = 4'})"
+0.105581717768917,"frozenset({'PoliceDistrict = 4', 'district = 6'})"
+0.10631215912736605,"frozenset({'district = 8', 'PoliceDistrict = 5'})"
+0.119483019386773,"frozenset({'district = 7', 'PoliceDistrict = 6'})"
+0.10105011687061735,"frozenset({'district = 10', 'PoliceDistrict = 7'})"
+0.1247450616435217,"frozenset({'description = 1050', 'priority = 1.0'})"
+0.15135031394656034,"frozenset({'year = 2021', 'priority = 0.0'})"
+0.16805880196159312,"frozenset({'year = 2022', 'priority = 0.0'})"
+0.16475319675512168,"frozenset({'year = 2021', 'priority = 1.0'})"
+0.15652642192584446,"frozenset({'year = 2022', 'priority = 1.0'})"
+0.1637735459920253,"frozenset({'year = 2021', 'priority = 2.0'})"
+0.15709645263302627,"frozenset({'priority = 2.0', 'year = 2022'})"
